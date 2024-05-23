@@ -1,3 +1,5 @@
 writing whatever for the first time
 doing first change in feature branch
 doing second change in feature branch
+doing some changes after master  branch commit
+
